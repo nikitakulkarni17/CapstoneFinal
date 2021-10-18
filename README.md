@@ -1,7 +1,9 @@
 # CapstoneFinal
 
 Nikita Kulkarni 
-Southern Methodist University 
+
+Southern Methodist University
+
 Fall 2021
 
 Artist Bio: 
