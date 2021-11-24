@@ -1,4 +1,4 @@
-# CapstoneFinal
+#Bharatanatyam as a Virtual Space 
 
 Nikita Kulkarni 
 
@@ -12,4 +12,4 @@ Her work specializes in the intersectionality between traditional art and techno
 Currently, she is working towards her undergraduate graduation in May of 2022.
 
 Project Statement: 
-Bharatanatyam is a classical Indian dance form that has been practiced by multiple generations of South Asians. Personally, I started learning this dance form at the age of 4, and have continued it throughout my life. It is a very traditional art form that doesn’t incorporate a lot of technology. Even when it comes to the music and sound, normally live artists play traditional Indian instruments behind the dancer. This project bridges the gap between the modern world and the traditional world. It incorporates motion capture, where the program records the movement of a user. 
+Bharatanatyam is a classical Indian dance form that has been practiced by multiple generations of South Asians. Personally, I started learning this dance form at the age of 4, and have continued it throughout my life. It is a very traditional art form that doesn’t incorporate a lot of technology. Even when it comes to the music and sound, normally live artists play traditional Indian instruments behind the dancer. This project bridges the gap between the modern world and the traditional world. It incorporates programming, animation, and digital media design. 
