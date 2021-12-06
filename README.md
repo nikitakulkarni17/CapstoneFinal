@@ -6,6 +6,12 @@ Southern Methodist University
 
 Fall 2021
 
+
+##Youtube Video 
+
+https://youtu.be/E2J-jI0kohs
+
+
 Artist Bio: 
 Nikita Kulkarni is an artist, developer, and digital designer who is currently studying at Southern Methodist University in Dallas, Texas. Nikita is a creative computation, art, and psychology student. 
 Her work specializes in the intersectionality between traditional art and technology. Some of her work incorporates her Indian cultural background while gaining influence from her American upbringing. Nikita’s background in programming and psychology shapes her interest in UX and consumer-based development. 
@@ -16,6 +22,11 @@ Bharatanatyam is a classical Indian dance form that has been practiced by multip
 
 #How to access
 
-Click on Capstone Interactive Files
+Within Google Drive --> 
 
-Open on a browser 
+Final Full Videos: download video files 
+
+CapstoneInteractive: download for webpage files
+
+https://drive.google.com/drive/folders/1tgJkIXJSoF7IsGIdK26QmjhIQj4vLPhm?usp=sharing
+
